@@ -1,0 +1,4 @@
+# dotfiles-kernel-kiss
+
+KISS KERNEL CONFIG FOR THINKPAD T470S 
+AND KISS PROFILE 
