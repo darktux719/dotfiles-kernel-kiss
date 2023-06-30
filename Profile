@@ -1,9 +1,11 @@
-REPODIR="/var/db/kiss" # Example, set this accordingly
+REPODIR="/var/db/kiss"
 
 export KISS_PATH=""
 KISS_PATH="$KISS_PATH:$REPODIR/repo/core"
+KISS_PATH="$KISS_PATH:$REPODIR/kiss-xorg/extra"
+KISS_PATH="$KISS_PATH:$REPODIR/kiss-xorg/xorg"
+KISS_PATH="$KISS_PATH:$REPODIR/kiss-xorg/community"
 KISS_PATH="$KISS_PATH:$REPODIR/repo/extra"
-KISS_PATH="$KISS_PATH:$REPODIR/repo/wayland"
 KISS_PATH="$KISS_PATH:$REPODIR/community/community"
 
 export CFLAGS="-march=native -pipe -Os"
