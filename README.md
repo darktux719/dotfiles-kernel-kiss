@@ -1,5 +1,5 @@
 ##MAZATA CASA
-###PLANTA BAJA
+##PLANTA BAJA
 - cosina 13
 - comedor 9
 - distribuidor 8
@@ -7,7 +7,9 @@
 - bano 3
 - cuarto de servicio 4
 - marquezina de entrada 4
-###PLANTA ALTA
+
+##PLANTA ALTA
+
 - Habitacion 1
 1.8 techo
 2.2 muro
